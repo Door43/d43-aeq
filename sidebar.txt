@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aeq:home|Door43 (aeq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aeq|d43-aeq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aeq/archive/master.zip|d43-aeq.zip]]
+
+**Recent Changes**
+{{changes>ns = aeq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aeq|Ethnologue data]]
+
